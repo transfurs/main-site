@@ -1,5 +1,5 @@
 # main-site
-Contains the code required for generating the main Transfurs site
+Contains the code required for generating the main Transfurs site, https://transfurs.com/
 
 This is a site generated with Jekyll and the Minimal Mistakes theme.
 
