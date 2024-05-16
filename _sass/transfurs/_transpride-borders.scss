@@ -1,0 +1,8 @@
+$trans-pride-gradient: linear-gradient(90deg, #5BCEFA, #F5A9B8, white, #F5A9B8, #5BCEFA);
+$border-image: $trans-pride-gradient 1;
+
+.masthead,
+.archive__subtitle
+{
+	border-image: $border-image;
+}
